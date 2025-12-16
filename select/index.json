@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Let Me Let You Go",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-16T18:27:06.674839Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let Me Let You Go",
+      "artist": "安室奈美恵",
+      "has_synced": true,
+      "path": "select/01_Let_Me_Let_You_Go_安室奈美恵.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let Me Let You Go",
+      "artist": "安室奈美恵",
+      "has_synced": true,
+      "path": "select/02_Let_Me_Let_You_Go_安室奈美恵.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let Me Let You Go",
+      "artist": "Aaron Carter",
+      "has_synced": true,
+      "path": "select/03_Let_Me_Let_You_Go_Aaron_Carter.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let Me Let You Go",
+      "artist": "Namie Amuro",
+      "has_synced": true,
+      "path": "select/04_Let_Me_Let_You_Go_Namie_Amuro.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let Me Let You Go",
+      "artist": "Mega",
+      "has_synced": true,
+      "path": "select/05_Let_Me_Let_You_Go_Mega.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let Me Let You Go",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_Let_Me_Let_You_Go_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Let Me Let You Go",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/07_Let_Me_Let_You_Go_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "let me let you go",
+      "artist": "John K",
+      "has_synced": true,
+      "path": "select/08_let_me_let_you_go_John_K.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Let Me Let You Go",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/09_Let_Me_Let_You_Go_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Let Me Let You Go",
+      "artist": "Jamie Lawson",
+      "has_synced": true,
+      "path": "select/10_Don't_Let_Me_Let_You_Go_Jamie_Lawson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let me let you go",
+      "artist": "Violet Orlandi",
+      "has_synced": false,
+      "path": "select/11_Let_me_let_you_go_Violet_Orlandi.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let Me Let You Go",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/12_Let_Me_Let_You_Go_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let Me Let You Go",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/13_Let_Me_Let_You_Go_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Let Me Let You Go",
+      "artist": "Derivakat",
+      "has_synced": true,
+      "path": "select/14_Let_Me_Let_You_Go_Derivakat.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Let Me Let You Go",
+      "artist": "Jamie Lidell",
+      "has_synced": true,
+      "path": "select/15_Don't_Let_Me_Let_You_Go_Jamie_Lidell.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Let Me Let You Go - Japanese Version",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/16_Let_Me_Let_You_Go_-_Japanese_Version_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let Me Let You Go",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Let_Me_Let_You_Go_ONE_OK_ROCK.txt"
+    }
+  ]
+}
